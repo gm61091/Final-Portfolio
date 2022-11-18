@@ -21,6 +21,24 @@ body {
   padding: 0;
   box-sizing: border-box;
 }
+.bg-gray{
+  background-color: #f7f7f7;
+}
+.fab{
+  color: #b8a07e;
+}
+.fas{
+  color: #b8a07e;
+}
+.far{
+  color: #b8a07e;
+}
+.fa-brands{
+  color: #b8a07e;
+}
+.fa-solid{
+  color: #b8a07e;
+}
 
 h1,
 h2,
@@ -823,6 +841,9 @@ p {
 
 .journal-block .journal-info img {
   max-width: 100%;
+  
+
+  
 }
 
 .journal-block .journal-info .journal-txt {
